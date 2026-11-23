@@ -13,7 +13,7 @@ TILT=0.30
 CAM_DIST=4.0
 MESSAGE="for you ♥"
 NUM_HEARTS=18
-HINT="@alishsharma on tiktok!"
+HINT=""   # optional small grey line at the very bottom
 # ---------------------------------------------------------------------
 
 bouquet_main() {
